@@ -88,6 +88,9 @@ Developed a strong understanding of how data can be cleaned, organised, and anal
 ---
 
 ## 🚴 Bike Sales Analysis Project
+<img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/c38cfdd5-1521-42cc-a917-8e2758ecc976" />
+<img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/d3cd204f-e7ce-4bb8-a08f-ee98ef1681f1" />
+
 
 ### 🎯 Overview
 Analysed bike sales data to identify customer purchasing trends and compare performance across different demographics and regions.
